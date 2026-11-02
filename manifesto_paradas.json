@@ -1,0 +1,14 @@
+{
+  "j2i_paradas_jornada.py": {
+    "antes": null,
+    "depois": "79a78621338b53e105425b4890ff0b563a86e14f6d6d0e9d9a96552517f10569"
+  },
+  "j2i_paradas_consulta.py": {
+    "antes": "396188fc1b889ff6a12276b39f0b9b6e5541061ebb98eb6a5ae30a5a3a982953",
+    "depois": "a260b5b3fdf7c55eb01bdeae6293b88b3d880e8d55c8d51f73e9438af7b943fc"
+  },
+  "j2i_telas_operacao.py": {
+    "antes": "353b264a8d98897f8a767f9f341d585cd742e9e8ab5a971588f55979e9f5ef55",
+    "depois": "7b47c16a19ff8b3b73cc8ea5261439e03f2ef466db5781876ec59b0782679dc5"
+  }
+}
